@@ -39,6 +39,20 @@
 | Ponto de hidrante | un | [ ] |
 | Central de alarme + acionadores | conj | [ ] |
 
+## Referência de material — preços da loja online (loja.shopfire.com.br, 20/11/2026)
+> Preço de **venda do produto** (sem instalação). Conferir na loja antes de usar — muda com frequência.
+
+| Produto | Código | Preço (R$) |
+|---|---|---|
+| Extintor pó químico ABC 4 kg | EPQS4ABC | 162,00 |
+| Detector de fumaça convencional | DFC 421 | 78,00 |
+| Detector de fumaça linear | DFL 3100 | 2.612,00 |
+| Luminária de emergência autônoma | LEA 31 | 20,00 |
+| Quadro de bomba de incêndio 1 CV | QAB1CV | 2.026,00 (boleto 1.965,22) |
+| Barra antipânico alavanca, folha simples | BARRA2 | 471,00 |
+
+Loja: parcelamento sem juros no cartão (2x–3x conforme item) e desconto no boleto.
+
 ## Condições comerciais
 - Forma de pagamento: [ex.: 50% entrada + 50% na emissão]
 - Taxas do Corpo de Bombeiros: [inclusas / por conta do cliente]
