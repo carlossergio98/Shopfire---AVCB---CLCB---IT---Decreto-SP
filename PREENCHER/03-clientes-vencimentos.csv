@@ -1,0 +1,2 @@
+cliente,cnpj_cpf,endereco,cidade,ocupacao_divisao,area_m2,tipo_licenca,numero_licenca,data_emissao,data_vencimento,contato,telefone,email,status,observacoes
+EXEMPLO Restaurante Sabor,00.000.000/0001-00,Rua Exemplo 100,São Paulo,F-8,480,CLCB,000000,2025-03-10,2028-03-10,João,11999990000,joao@exemplo.com,ativo,cozinha com GLP
